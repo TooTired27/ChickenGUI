@@ -1,0 +1,10 @@
+C:\Users\mtsha_0wj9tri\OneDrive\Desktop\GUIPrac1\bin\Debug\GUIPrac1.exe.config
+C:\Users\mtsha_0wj9tri\OneDrive\Desktop\GUIPrac1\bin\Debug\GUIPrac1.exe
+C:\Users\mtsha_0wj9tri\OneDrive\Desktop\GUIPrac1\bin\Debug\GUIPrac1.pdb
+C:\Users\mtsha_0wj9tri\OneDrive\Desktop\GUIPrac1\obj\Debug\GUIPrac1.csproj.AssemblyReference.cache
+C:\Users\mtsha_0wj9tri\OneDrive\Desktop\GUIPrac1\obj\Debug\GUIPrac1.Form1.resources
+C:\Users\mtsha_0wj9tri\OneDrive\Desktop\GUIPrac1\obj\Debug\GUIPrac1.Properties.Resources.resources
+C:\Users\mtsha_0wj9tri\OneDrive\Desktop\GUIPrac1\obj\Debug\GUIPrac1.csproj.GenerateResource.cache
+C:\Users\mtsha_0wj9tri\OneDrive\Desktop\GUIPrac1\obj\Debug\GUIPrac1.csproj.CoreCompileInputs.cache
+C:\Users\mtsha_0wj9tri\OneDrive\Desktop\GUIPrac1\obj\Debug\GUIPrac1.exe
+C:\Users\mtsha_0wj9tri\OneDrive\Desktop\GUIPrac1\obj\Debug\GUIPrac1.pdb
