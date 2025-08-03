@@ -1,6 +1,6 @@
 # Egg Calculator - Windows Forms Application  
 
-![Egg Calculator Preview](screenshot.png) *[Optional: Add screenshot of the UI]*  
+ 
 
 ## Overview  
 **Egg Calculator** is a simple Windows Forms application that calculates the total number of eggs laid by chickens and converts them into dozens and remaining eggs. Designed for basic agricultural or inventory tracking purposes.  
@@ -35,4 +35,6 @@
 
 ## Credits  
 - **Pamela Mtshali**  
-- Built as a practice project for C#/WinForms. 
+- Built as a practice project for C#/WinForms.
+  
+  **Tags**: #CSharp #WinForms #DesktopApp #BeginnerProject   
